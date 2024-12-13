@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "543079367676",
+    "firebase_url": "https://trucktaxi-5df20.firebaseio.com",
+    "project_id": "trucktaxi-5df20",
+    "storage_bucket": "trucktaxi-5df20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543079367676:android:ea4a5aa508544d3eb9a879",
+        "android_client_info": {
+          "package_name": "com.Truck_Taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543079367676-3eqio02ha207s1p3i3ofhj4jj0o0mluj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBey3jVCm7N4IntWnowsjkk597jp_7-58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543079367676-3eqio02ha207s1p3i3ofhj4jj0o0mluj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543079367676:android:54789facc874ef52b9a879",
+        "android_client_info": {
+          "package_name": "com.unsullied.trucktaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543079367676-3eqio02ha207s1p3i3ofhj4jj0o0mluj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBey3jVCm7N4IntWnowsjkk597jp_7-58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543079367676-3eqio02ha207s1p3i3ofhj4jj0o0mluj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

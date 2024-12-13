@@ -1,0 +1,4 @@
+export const SET_USER_DATA = 'SET_USER_DATA';
+export const SET_ACTIVE_LOGIN_DATA = 'SET_ACTIVE_LOGIN_DATA';
+export const SET_REFRESH = 'SET_REFRESH';
+export const SET_FILTER_DATE = 'SET_FILTER_DATE';
